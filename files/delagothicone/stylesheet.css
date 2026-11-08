@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'dela_gothic_oneregular';
-    src: url('delagothicone-regular-webfont.woff2') format('woff2'),
-         url('delagothicone-regular-webfont.woff') format('woff');
+    src: url('https://rabbidroedent.github.io/randomhosting/files/delagothicone/delagothicone-regular-webfont.woff2') format('woff2'),
+         url('https://rabbidroedent.github.io/randomhosting/files/delagothicone/delagothicone-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
